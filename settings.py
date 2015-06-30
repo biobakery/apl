@@ -1,0 +1,2 @@
+workdir='./logs'
+dev=False
